@@ -22,7 +22,6 @@
     },
     "require": {
         "php": ">= 5.3",
-        "robrichards/xmlseclibs": ">=2.0",
         "amitkm2603/wse-php":"dev-master"
     }
 }
